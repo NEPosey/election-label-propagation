@@ -1,0 +1,6 @@
+# Configuration file for constant values and data information
+
+nearest_neighbors: 5 # k
+
+demographic_similarity: 0.95 # threshold of demographic similarity to build an edge between
+
